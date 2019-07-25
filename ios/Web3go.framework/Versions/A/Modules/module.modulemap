@@ -1,0 +1,8 @@
+framework module "Web3go" {
+	header "ref.h"
+    header "Web3go.objc.h"
+    header "Universe.objc.h"
+    header "Web3go.h"
+
+    export *
+}
