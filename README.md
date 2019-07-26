@@ -21,7 +21,7 @@ gomobile bind -target=android ./github.com/bcl-chain/web3.go/mobile
 
 ![](https://github.com/kmyw/React-Native-Dapp/blob/master/gan-cli.png?raw=true)
 
-- **Getting Started**
+## Getting Started
 
 ```
 yarn
