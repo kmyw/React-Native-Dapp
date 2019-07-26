@@ -20,12 +20,15 @@ gomobile bind -target=android ./github.com/bcl-chain/web3.go/mobile
 - **Use ganache-cli to deployment of local test Ethernet workshop**
 
 ![](https://github.com/kmyw/React-Native-Dapp/blob/master/gan-cli.png?raw=true)
-- Getting Started
+
+- **Getting Started**
+
 ```
 yarn
 react-native run-android
 react-native run-ios
 ```
-- this dapp have generate Hardware Wallet, import wallet with privateKey, import wallet with mnemonic, sendTransaction(contain ERC20), getBalance(contain ERC20)
+- **This dapp have generate Hardware Wallet, import wallet with privateKey, import wallet with mnemonic, sendTransaction(contain ERC20), getBalance(contain ERC20)**
+
 ![](https://github.com/kmyw/React-Native-Dapp/blob/master/dapp-demo-1.png?raw=true)
 ![](https://github.com/kmyw/React-Native-Dapp/blob/master/dapp-demo-2.png?raw=true)
