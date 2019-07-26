@@ -18,7 +18,7 @@ gomobile bind -target=android ./github.com/bcl-chain/web3.go/mobile
 - link framework and arr jar to ios android
 
 - use ganache-cli to deployment of local test Ethernet workshop
-![](https://github.com/AppScaffold/Navi/blob/master/Screenshot%20TipsView.png?raw=true)
+![](https://github.com/kmyw/React-Native-Dapp/blob/master/gan-cli.png?raw=true)
 - Getting Started
 ```
 yarn
@@ -26,5 +26,5 @@ react-native run-android
 react-native run-ios
 ```
 - this dapp have generate Hardware Wallet, import wallet with privateKey, import wallet with mnemonic, sendTransaction(contain ERC20), getBalance(contain ERC20)
-![](https://github.com/AppScaffold/Navi/blob/master/Screenshot%20TipsView.png?raw=true)
-![](https://github.com/AppScaffold/Navi/blob/master/Screenshot%20TipsView.png?raw=true)
+![](https://github.com/kmyw/React-Native-Dapp/blob/master/dapp-demo-1.png?raw=true)
+![](https://github.com/kmyw/React-Native-Dapp/blob/master/dapp-demo-2.png?raw=true)
